@@ -884,7 +884,7 @@ img {
   background-color: #EC1F46;
 }
 
-.map, #map {
+.map {
   width: 347px;
   height: 213px;
   -webkit-border-radius: 10px;
@@ -892,7 +892,7 @@ img {
   overflow: hidden;
 }
 
-.map-frame, #map-frame {
+.map-frame {
   width: 100%;
   height: 100%;
   border: none;
@@ -1113,7 +1113,7 @@ img {
     width: 279px;
     height: 210px;
   }
-  .map, #map {
+  .map {
     width: 280px;
     height: 172px;
   }
